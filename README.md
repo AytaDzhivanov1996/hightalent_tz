@@ -11,3 +11,6 @@
 
 ## Документация
 - Документацию с эндпоинтами API можно найти здесь: http://localhost:8000/docs
+
+## Тесты
+- Тесты запускаются через ```docker compose exec app python3 -m pytest```
